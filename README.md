@@ -247,7 +247,7 @@ Mar  2  | Projects due | Projects presentations  | Last day of classes | Reading
 
 
 <!---------------------------------------------------------------------------->
-## Bibliography
+## Biography
 
 Chi-kwan "CK" Chan is a computational astrophysicist working with
 cutting edge technologies to advance both theoretical and
