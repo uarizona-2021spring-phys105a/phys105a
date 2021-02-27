@@ -207,9 +207,8 @@ We plan to cover the following topics in PHYS 105A:
 4      | Random numbers and Monte Carlo methods   | Monte Carlo in `python` (assignment 10pts)
 5      | The `C` programming language             | Monte Carlo in `C` (assignment 10pts)
 6      | Data processing with `python`            | Data processing with `python` (assignment 10pts); project planning
-7      | Statistics                               | Compute statistics in `python`
-&nbsp; | Project presentations                    | (project 20pts)
-8      | Numerical integration of functions       | Numerical integrator (assignment 10pts)
+7      | Numerical integration of functions       | Project (project 20pts)
+8      | Project presentations                    | Numerical integrator (assignment 10pts)
 9      | Root finding                             | Root finders (assignment 10pts)
 10     | Minimization or maximization             | Optimizer (assignment 10pts)
 11     | ODE integration                          | ODE integrator
