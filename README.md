@@ -211,10 +211,10 @@ We plan to cover the following topics in PHYS 105A:
 8      | Project presentations                    | Numerical integrator (assignment 10pts)
 9      | Root finding                             | Root finders (assignment 10pts)
 10     | Minimization or maximization             | Optimizer (assignment 10pts)
-11     | ODE integration                          | ODE integrator
-12     | n-body problem                           | n-body integrator (assignment 10pts); project planning
-13     | Research codes                           | Research codes; project helpout
-14     | Outlooks                                 | Project helpout
+11     | ODE integration. I.                      | ODE integrator
+12     | ODE integration. II.                     | n-body integrator (assignment 10pts); project planning
+13     | ODE integration. III.                    | Research codes; project helpout
+14     | Research codes and outlooks              | Project helpout
 &nbsp; | Project presentations                    | (project 20pts)
 
 ### Schedule
